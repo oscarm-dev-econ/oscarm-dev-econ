@@ -15,4 +15,4 @@ Here’s a picture:
 
 [//] ![A caption for this image](/assets/img/example.jpg)
 
-[//] [About me](about.md)
+[About me](about.md)
