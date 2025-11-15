@@ -1,7 +1,5 @@
 title: Oscar’s Intro to Statistical Inference
-remote_theme: "mmistakes/minimal-mistakes"
-plugins: 
-  - jekyll-theme-cayman
+theme: jekyll-theme-cayman
 github:
   is_project_page: true
   repository_url: https://github.com/oscarm-dev-econ/stats4beginners
