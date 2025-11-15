@@ -3,20 +3,15 @@ layout: default
 title: Home
 ---
 
-# Welcome
-Short intro paragraph.
+[Home](index.html) · [Notes](notes.html) · [About](about.html)
 
-## Section one
-- Bullet item A
-- Bullet item B
-
-## Section two
-Here’s a picture:
-
-![A caption for this image](/assets/img/global-debt-gdp-chart.png)
-
-[About me](about.md)
+## Contents
+- TOC
+{:toc}
 
 ## 1 Preliminary Concepts {#sec-1}
+
+### 1.1 Sets
+
 ## 2 Random Variables {#sec-2}
 
