@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-[Home](index.html) · [Notes](notes.html) · [About](about.html)
+[Home](index.html) · [About](about.html)
 
 ## Contents
 - TOC
