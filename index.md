@@ -11,7 +11,8 @@ title: Home
 
 ## 1 Preliminary Concepts {#sec-1}
 
-### 1.1 Sets
+### 1.1 Sets {#sec-1-1}
+Sets and their properties
 
 ## 2 Random Variables {#sec-2}
 
